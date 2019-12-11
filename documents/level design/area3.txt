@@ -1,0 +1,9 @@
+Once the player reaches the location, a cutscene starts. In the cutscene, Eleven sees that one big window is open, so she starts running towards it. Just before Eleven can reach the window, Dustin appears and stops her with some fireworks.
+
+Environmental clues and a prompt on screen (i.e. “stay alive”) should make crystal clear the fact that the player should just try to survive Dustin rather than killing him.
+
+Now the player has to survive Dustin. A UI progress bar shows the player the level of rage of Dustin. The bar increases constantly over time. As the bar reaches certain points, a new phase of the boss fight begins. See the specific chapter on this battle for more information on the phases and on the boss fight overall.
+
+During the battle, the battlefield continuously deteriorates, until, at the end, it starts collapsing. In this moment the fight is over and a cutscene starts.
+
+Eleven notices that a big piece of ceiling is falling on Dustin, so she leaps forward to help him. She is not fast enough, so Dustin is hit. From now on, the environment around Eleven becomes more and more chaotic, as the gym and the school itself are collapsing, until the floor breaks and Eleven finds herself free-falling. Upon reaching the ground, she hits her head and passes out on the spot.
