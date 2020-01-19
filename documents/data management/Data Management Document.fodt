@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2019-11-20T18:50:35.749000000</meta:creation-date><dc:date>2020-01-19T16:05:56.793000000</dc:date><meta:editing-duration>PT2H20M22S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:generator>LibreOffice/6.2.8.2$Windows_X86_64 LibreOffice_project/f82ddfca21ebc1e222a662a32b25c0c9d20169ee</meta:generator><meta:document-statistic meta:table-count="7" meta:image-count="0" meta:object-count="0" meta:page-count="8" meta:paragraph-count="226" meta:word-count="2392" meta:character-count="14148" meta:non-whitespace-character-count="11747"/></office:meta>
+ <office:meta><meta:creation-date>2019-11-20T18:50:35.749000000</meta:creation-date><dc:date>2020-01-19T16:17:09.600000000</dc:date><meta:editing-duration>PT2H21M24S</meta:editing-duration><meta:editing-cycles>25</meta:editing-cycles><meta:generator>LibreOffice/6.2.8.2$Windows_X86_64 LibreOffice_project/f82ddfca21ebc1e222a662a32b25c0c9d20169ee</meta:generator><meta:document-statistic meta:table-count="7" meta:image-count="0" meta:object-count="0" meta:page-count="8" meta:paragraph-count="224" meta:word-count="2356" meta:character-count="13931" meta:non-whitespace-character-count="11567"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">223174</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">207074</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">22419</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">18787</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">19726</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">18544</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">237966</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">3745</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">218182</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">223174</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">207074</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">22417</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">241960</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">226797</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="ZoomFactor" config:type="short">110</config:config-item>
-     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">true</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
@@ -85,7 +85,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">4936814</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">5000153</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
@@ -1443,145 +1443,150 @@
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="0033f84d" officeooo:paragraph-rsid="004135c6" style:font-size-asian="11pt" style:font-weight-asian="normal" style:font-size-complex="11pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P188" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+  <style:style style:name="P188" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="0033f84d" officeooo:paragraph-rsid="0033f84d" style:font-size-asian="11pt" style:font-weight-asian="normal" style:font-size-complex="11pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P189" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:break-before="page" fo:background-color="transparent"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="0028a857" officeooo:paragraph-rsid="0028a857" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P189" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
+  <style:style style:name="P190" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:break-before="page" fo:background-color="transparent"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="14pt" fo:language="en" fo:country="US" fo:font-weight="bold" officeooo:rsid="00213c48" officeooo:paragraph-rsid="00213c48" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P190" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
+  <style:style style:name="P191" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:background-color="transparent"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="00222cd0" officeooo:paragraph-rsid="00222cd0" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P191" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
+  <style:style style:name="P192" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:background-color="transparent"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="00235e75" officeooo:paragraph-rsid="00235e75" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P192" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
+  <style:style style:name="P193" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:background-color="transparent"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="002431da" officeooo:paragraph-rsid="002431da" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P193" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
+  <style:style style:name="P194" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:background-color="transparent"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="00244d30" officeooo:paragraph-rsid="00271e98" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P194" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
+  <style:style style:name="P195" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:background-color="transparent"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="00244d30" officeooo:paragraph-rsid="00244d30" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P195" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
+  <style:style style:name="P196" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:background-color="transparent"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="0025ced4" officeooo:paragraph-rsid="0025ced4" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P196" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
+  <style:style style:name="P197" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:background-color="transparent"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="0026ac78" officeooo:paragraph-rsid="0026ac78" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P197" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
+  <style:style style:name="P198" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:background-color="transparent"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="00271e98" officeooo:paragraph-rsid="00271e98" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P198" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P199" style:family="paragraph" style:parent-style-name="Standard">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:background-color="transparent"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="00271e98" officeooo:paragraph-rsid="00271e98" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P199" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
-   <loext:graphic-properties draw:fill="none"/>
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:background-color="transparent"/>
-   <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="002f074a" officeooo:paragraph-rsid="002f074a" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="P200" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:background-color="transparent"/>
-   <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="002f459e" officeooo:paragraph-rsid="002f459e" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="002f074a" officeooo:paragraph-rsid="002f074a" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P201" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L5">
+  <style:style style:name="P201" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:background-color="transparent"/>
-   <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="002fce08" officeooo:paragraph-rsid="002fce08" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="002f459e" officeooo:paragraph-rsid="002f459e" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="P202" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L5">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:background-color="transparent"/>
-   <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="0030db07" officeooo:paragraph-rsid="0030db07" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="002fce08" officeooo:paragraph-rsid="002fce08" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P203" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L7">
+  <style:style style:name="P203" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L5">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:background-color="transparent"/>
-   <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="0036b1ce" officeooo:paragraph-rsid="0036b1ce" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="0030db07" officeooo:paragraph-rsid="0030db07" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="P204" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L7">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="0036b1ce" officeooo:paragraph-rsid="0036b1ce" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P205" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L7">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:background-color="transparent"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="0036e028" officeooo:paragraph-rsid="0036e028" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P205" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
+  <style:style style:name="P206" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:background-color="transparent"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="004accee" officeooo:paragraph-rsid="004accee" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P206" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P207" style:family="paragraph" style:parent-style-name="Standard">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:background-color="transparent"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="0031488d" officeooo:paragraph-rsid="0031488d" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P207" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L7">
+  <style:style style:name="P208" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L7">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:background-color="transparent"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="004b546e" officeooo:paragraph-rsid="004b546e" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P208" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L5">
+  <style:style style:name="P209" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L5">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:background-color="transparent"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="bold" officeooo:rsid="0031488d" officeooo:paragraph-rsid="0031488d" style:font-size-asian="10.5pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P209" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
+  <style:style style:name="P210" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:background-color="transparent"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="14pt" fo:language="en" fo:country="US" fo:font-weight="bold" officeooo:rsid="00235e75" officeooo:paragraph-rsid="00235e75" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P210" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
+  <style:style style:name="P211" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:background-color="transparent"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="14pt" fo:language="en" fo:country="US" fo:font-weight="bold" officeooo:rsid="0026ac78" officeooo:paragraph-rsid="0026ac78" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P211" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3" style:master-page-name="">
+  <style:style style:name="P212" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3" style:master-page-name="">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" style:page-number="auto" fo:break-before="auto" fo:break-after="auto" fo:background-color="transparent"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="14pt" fo:language="en" fo:country="US" fo:font-weight="bold" officeooo:rsid="0025ced4" officeooo:paragraph-rsid="0025ced4" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P212" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6" style:master-page-name="">
+  <style:style style:name="P213" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6" style:master-page-name="">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0.7cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent"/>
    <style:text-properties officeooo:paragraph-rsid="003243ad"/>
   </style:style>
-  <style:style style:name="P213" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6">
+  <style:style style:name="P214" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0.7cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
    <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="003243ad"/>
   </style:style>
-  <style:style style:name="P214" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6">
+  <style:style style:name="P215" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0.7cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
    <style:text-properties officeooo:paragraph-rsid="003243ad"/>
   </style:style>
-  <style:style style:name="P215" style:family="paragraph">
+  <style:style style:name="P216" style:family="paragraph">
    <loext:graphic-properties draw:fill-color="#ffffff"/>
   </style:style>
-  <style:style style:name="P216" style:family="paragraph">
+  <style:style style:name="P217" style:family="paragraph">
    <loext:graphic-properties draw:fill-color="#ffffff"/>
    <style:text-properties fo:font-size="12pt"/>
   </style:style>
@@ -2228,13 +2233,10 @@
    </text:list-level-style-bullet>
   </text:list-style>
   <style:style style:name="gr1" style:family="graphic">
-   <style:graphic-properties draw:fill-color="#ffffff" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.362cm" fo:min-width="0.314cm" style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" draw:wrap-influence-on-position="once-concurrent" style:flow-with-text="false"/>
-  </style:style>
-  <style:style style:name="gr2" style:family="graphic">
    <style:graphic-properties draw:fill-color="#ffffff" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.217cm" fo:min-width="0.314cm" style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" draw:wrap-influence-on-position="once-concurrent" style:flow-with-text="false"/>
   </style:style>
-  <style:style style:name="gr3" style:family="graphic">
-   <style:graphic-properties draw:fill-color="#ffffff" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.219cm" fo:min-width="0.318cm" style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="page" style:horizontal-pos="from-left" style:horizontal-rel="page" draw:wrap-influence-on-position="once-concurrent" style:flow-with-text="false"/>
+  <style:style style:name="gr2" style:family="graphic">
+   <style:graphic-properties draw:fill-color="#ffffff" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.219cm" fo:min-width="0.318cm" style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="page" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" draw:wrap-influence-on-position="once-concurrent" style:flow-with-text="false"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" fo:background-color="transparent" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="44" style:layout-grid-base-height="0.55cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="true" style:layout-grid-display="true" style:layout-grid-base-width="0.37cm" style:layout-grid-snap-to="true" draw:fill="none" draw:fill-color="#729fcf" style:footnote-max-height="0cm">
@@ -2261,7 +2263,7 @@
     <text:p text:style-name="P1">2019-2020</text:p>
    </loext:header-first>
    <style:footer>
-    <text:p text:style-name="P2"><text:page-number text:select-page="current">8</text:page-number></text:p>
+    <text:p text:style-name="P2"><text:page-number text:select-page="current">2</text:page-number></text:p>
    </style:footer>
    <loext:footer-first>
     <table:table table:name="Tabella1" table:style-name="Tabella1">
@@ -2289,7 +2291,7 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <draw:custom-shape text:anchor-type="page" text:anchor-page-number="7" draw:z-index="2" draw:name="Forma1" draw:style-name="gr3" draw:text-style-name="P216" svg:width="0.317cm" svg:height="0.412cm" svg:x="3.059cm" svg:y="18.904cm">
+   <draw:custom-shape text:anchor-type="page" text:anchor-page-number="8" draw:z-index="1" draw:name="Forma1" draw:style-name="gr2" draw:text-style-name="P217" svg:width="0.317cm" svg:height="0.412cm" svg:x="3.082cm" svg:y="6.361cm">
     <text:p/>
     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 0 10800 10800 21600 21600 10800" draw:text-areas="0 0 21600 ?f11" draw:type="paper" draw:modifiers="10800" draw:enhanced-path="M 0 0 L 21600 0 21600 ?f0 ?f0 21600 0 21600 Z N M ?f0 21600 L ?f3 ?f0 C ?f8 ?f9 ?f10 ?f11 21600 ?f0 Z N">
      <draw:equation draw:name="f0" draw:formula="$0 "/>
@@ -2387,7 +2389,7 @@
    <text:p text:style-name="P80">This page will be updated if needed, and a communication will be issued each time by the document owner to ensure that everyone is using a safe environment.</text:p>
    <text:p text:style-name="P120"/>
    <text:p text:style-name="P120"/>
-   <text:list xml:id="list160557755253001" text:continue-list="list1245719709" text:style-name="L1">
+   <text:list xml:id="list161710267490440" text:continue-list="list1245719709" text:style-name="L1">
     <text:list-item>
      <text:p text:style-name="P182">Software list</text:p>
     </text:list-item>
@@ -2400,7 +2402,7 @@
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P189">Generic software</text:p>
+       <text:p text:style-name="P190">Generic software</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
@@ -2467,26 +2469,26 @@
    <text:p text:style-name="P82"/>
    <text:list xml:id="list1379048422" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P190">G<text:span text:style-name="T44">it</text:span> is used to keep track of the changes made to documentation, assets and everything else concerning the project. The G<text:span text:style-name="T44">it</text:span> repository containing all the project’s data is currently located at <text:a xlink:type="simple" xlink:href="https://github.com/iacri/up-to-eleven" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://github.com/iacri/up-to-eleven</text:a>. </text:p>
-     <text:p text:style-name="P190"><text:span text:style-name="T46">Note that w</text:span><text:span text:style-name="T45">e follow a </text:span><text:a xlink:type="simple" xlink:href="https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T45">rebase policy</text:span></text:a><text:span text:style-name="T45"> in G</text:span><text:span text:style-name="T46">it</text:span><text:span text:style-name="T45">, </text:span><text:span text:style-name="T46">so that we can keep a cleaner history</text:span><text:span text:style-name="T45">. You should work on changes and additions to the project on your own branch and then </text:span><text:a xlink:type="simple" xlink:href="https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T45">create a pull request</text:span></text:a><text:span text:style-name="T45"> so that your addition can be reviewed by your peers. Once the pull request is approved, </text:span><text:span text:style-name="T46">the commits must be added to the main branch by using the </text:span><text:a xlink:type="simple" xlink:href="https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-merges#rebase-and-merge-your-pull-request-commits" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T46">rebase and merge option</text:span></text:a><text:span text:style-name="T46">.</text:span></text:p>
+     <text:p text:style-name="P191">G<text:span text:style-name="T44">it</text:span> is used to keep track of the changes made to documentation, assets and everything else concerning the project. The G<text:span text:style-name="T44">it</text:span> repository containing all the project’s data is currently located at <text:a xlink:type="simple" xlink:href="https://github.com/iacri/up-to-eleven" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://github.com/iacri/up-to-eleven</text:a>. </text:p>
+     <text:p text:style-name="P191"><text:span text:style-name="T46">Note that w</text:span><text:span text:style-name="T45">e follow a </text:span><text:a xlink:type="simple" xlink:href="https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T45">rebase policy</text:span></text:a><text:span text:style-name="T45"> in G</text:span><text:span text:style-name="T46">it</text:span><text:span text:style-name="T45">, </text:span><text:span text:style-name="T46">so that we can keep a cleaner history</text:span><text:span text:style-name="T45">. You should work on changes and additions to the project on your own branch and then </text:span><text:a xlink:type="simple" xlink:href="https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T45">create a pull request</text:span></text:a><text:span text:style-name="T45"> so that your addition can be reviewed by your peers. Once the pull request is approved, </text:span><text:span text:style-name="T46">the commits must be added to the main branch by using the </text:span><text:a xlink:type="simple" xlink:href="https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-merges#rebase-and-merge-your-pull-request-commits" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T46">rebase and merge option</text:span></text:a><text:span text:style-name="T46">.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P191">LibreOffice is the application used to edit and access documentation concerning the project.</text:p>
+     <text:p text:style-name="P192">LibreOffice is the application used to edit and access documentation concerning the project.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P191">Mozilla Firefox is the web browser that has been tested to work with all the web applications and websites we use.</text:p>
+     <text:p text:style-name="P192">Mozilla Firefox is the web browser that has been tested to work with all the web applications and websites we use.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P191">Foxit Reader is only used to read any PDF file.</text:p>
+     <text:p text:style-name="P192">Foxit Reader is only used to read any PDF file.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P100"/>
    <text:p text:style-name="P100"/>
-   <text:list xml:id="list160558185338486" text:continue-list="list430012264" text:style-name="L3">
+   <text:list xml:id="list161710746434325" text:continue-list="list430012264" text:style-name="L3">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P209">Organization software</text:p>
+       <text:p text:style-name="P210">Organization software</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
@@ -2513,24 +2515,24 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="P63"/>
-   <text:list xml:id="list160557107784410" text:continue-list="list1379048422" text:style-name="L4">
+   <text:list xml:id="list161710366502541" text:continue-list="list1379048422" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P192">Trello is used as a <text:a xlink:type="simple" xlink:href="https://en.wikipedia.org/wiki/Kanban_(development)" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Kanban</text:a> board to create and assign tasks, and check their cycle of life. <text:span text:style-name="T56">Our Trello group page is located at </text:span><text:a xlink:type="simple" xlink:href="https://trello.com/unusualevents" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T56">https://trello.com/unusualevents</text:span></text:a></text:p>
+     <text:p text:style-name="P193">Trello is used as a <text:a xlink:type="simple" xlink:href="https://en.wikipedia.org/wiki/Kanban_(development)" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Kanban</text:a> board to create and assign tasks, and check their cycle of life. <text:span text:style-name="T56">Our Trello group page is located at </text:span><text:a xlink:type="simple" xlink:href="https://trello.com/unusualevents" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T56">https://trello.com/unusualevents</text:span></text:a></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P193">Google Drive is used to share various things that do not require versioning and, instead, require fast access for the team members. One example of such elements is the PDF file deriving from the documentation of any given commit that is tagged for release. <text:span text:style-name="T58">Our Google Drive folder is located at</text:span></text:p>
-     <text:p text:style-name="P193"><text:a xlink:type="simple" xlink:href="https://drive.google.com/drive/u/1/folders/1aBtlQNejWAaLDnxmeLUCo71twsaPeAWl" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T58">https://drive.google.com/drive/u/1/folders/1aBtlQNejWAaLDnxmeLUCo71twsaPeAWl</text:span></text:a><text:span text:style-name="T58">.</text:span></text:p>
-     <text:p text:style-name="P194">Do not share on Google Drive anything that is not easily accessed or created from the repository and that can be modified and become outdated. When in doubt, ask this document’s owner where to share!</text:p>
+     <text:p text:style-name="P194">Google Drive is used to share various things that do not require versioning and, instead, require fast access for the team members. One example of such elements is the PDF file deriving from the documentation of any given commit that is tagged for release. <text:span text:style-name="T58">Our Google Drive folder is located at</text:span></text:p>
+     <text:p text:style-name="P194"><text:a xlink:type="simple" xlink:href="https://drive.google.com/drive/u/1/folders/1aBtlQNejWAaLDnxmeLUCo71twsaPeAWl" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T58">https://drive.google.com/drive/u/1/folders/1aBtlQNejWAaLDnxmeLUCo71twsaPeAWl</text:span></text:a><text:span text:style-name="T58">.</text:span></text:p>
+     <text:p text:style-name="P195">Do not share on Google Drive anything that is not easily accessed or created from the repository and that can be modified and become outdated. When in doubt, ask this document’s owner where to share!</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P87"/>
    <text:p text:style-name="P87"/>
    <text:p text:style-name="P87"/>
-   <text:list xml:id="list160558705462530" text:continue-list="list160558185338486" text:style-name="L3">
+   <text:list xml:id="list161711556111569" text:continue-list="list161710746434325" text:style-name="L3">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P211"><text:soft-page-break/>Assets software</text:p>
+       <text:p text:style-name="P212"><text:soft-page-break/>Assets software</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
@@ -2606,27 +2608,27 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="P86"/>
-   <text:list xml:id="list160557485331565" text:continue-list="list160557107784410" text:style-name="L4">
+   <text:list xml:id="list161710099098633" text:continue-list="list161710366502541" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P195">Gimp is used to edit and create any project-related image.</text:p>
+     <text:p text:style-name="P196">Gimp is used to edit and create any project-related image.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P196">Inkscape is used to edit and create any vector based image related to the project.</text:p>
+     <text:p text:style-name="P197">Inkscape is used to edit and create any vector based image related to the project.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P196">SketchUp is used only to create files that can help colleagues better visualize any polygon-based scene or subject.</text:p>
+     <text:p text:style-name="P197">SketchUp is used only to create files that can help colleagues better visualize any polygon-based scene or subject.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P196">Blender will be used only to create the final assets of the game.</text:p>
+     <text:p text:style-name="P197">Blender will be used only to create the final assets of the game.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P91"/>
    <text:p text:style-name="P91"/>
-   <text:list xml:id="list160557007290647" text:continue-list="list160558705462530" text:style-name="L3">
+   <text:list xml:id="list161710187455266" text:continue-list="list161711556111569" text:style-name="L3">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P210">Development software</text:p>
+       <text:p text:style-name="P211">Development software</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
@@ -2680,22 +2682,22 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="P64"/>
-   <text:list xml:id="list160558892458854" text:continue-list="list160557485331565" text:style-name="L4">
+   <text:list xml:id="list161711463452313" text:continue-list="list161710099098633" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P197">Unity is used to create any prototype for the project, when software prototypes are needed.</text:p>
+     <text:p text:style-name="P198">Unity is used to create any prototype for the project, when software prototypes are needed.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P197">Visual Studio Code is to be used as the main code editor, but developers should note that in regard to this we are very flexible – discuss alternatives with this document’s owner!</text:p>
+     <text:p text:style-name="P198">Visual Studio Code is to be used as the main code editor, but developers should note that in regard to this we are very flexible – discuss alternatives with this document’s owner!</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P197">Unreal Engine will, instead, be used to create the final game. <text:span text:style-name="T36">Not a </text:span><text:span text:style-name="T39">single</text:span><text:span text:style-name="T36"> line of code</text:span> can be written for Unreal unless it is supposed to ship with the final version of the game.</text:p>
+     <text:p text:style-name="P198">Unreal Engine will, instead, be used to create the final game. <text:span text:style-name="T36">Not a </text:span><text:span text:style-name="T39">single</text:span><text:span text:style-name="T36"> line of code</text:span> can be written for Unreal unless it is supposed to ship with the final version of the game.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P92"/>
    <text:p text:style-name="P92"/>
-   <text:list xml:id="list160558589810629" text:continue-list="list160557755253001" text:style-name="L1">
+   <text:list xml:id="list161710449083117" text:continue-list="list161710267490440" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P188"><text:span text:style-name="T60">D</text:span><text:span text:style-name="T59">ata types</text:span></text:p>
+     <text:p text:style-name="P189"><text:span text:style-name="T60">D</text:span><text:span text:style-name="T59">ata types</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P124"/>
@@ -2774,38 +2776,38 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="P141"/>
-   <text:list xml:id="list160557937704928" text:continue-list="list160558892458854" text:style-name="L4">
+   <text:list xml:id="list161711333343324" text:continue-list="list161711463452313" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P199">The .fodt file format is native to LibreOffice, and <text:span text:style-name="T68">we use it mainly because this way we can get a somewhat discernible diff in GitHub that can be peer reviewed. Since the resulting diff will still include some changes within the xml code that is not relevant to the actual change in the commit, when creating a pull request you should mark with comments the lines in the diff that are relevant to the commit.</text:span></text:p>
+     <text:p text:style-name="P200">The .fodt file format is native to LibreOffice, and <text:span text:style-name="T68">we use it mainly because this way we can get a somewhat discernible diff in GitHub that can be peer reviewed. Since the resulting diff will still include some changes within the xml code that is not relevant to the actual change in the commit, when creating a pull request you should mark with comments the lines in the diff that are relevant to the commit.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P200">The .png file format is the format in which every final image should be stored, <text:span text:style-name="T69">but anything that was modified with Gimp should also have its final version saved in a .xfc file, so that we can easily access and edit that.</text:span></text:p>
+     <text:p text:style-name="P201">The .png file format is the format in which every final image should be stored, <text:span text:style-name="T69">but anything that was modified with Gimp should also have its final version saved in a .xfc file, so that we can easily access and edit that.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P205">The .tif file format is a common file format for textures, and this should be the choice when handling this kind of data.</text:p>
+     <text:p text:style-name="P206">The .tif file format is a common file format for textures, and this should be the choice when handling this kind of data.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P205">The .obj file format is common throughout 3D modeling for games, and its high compatibility should make it the choice for 3D models.</text:p>
+     <text:p text:style-name="P206">The .obj file format is common throughout 3D modeling for games, and its high compatibility should make it the choice for 3D models.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P205">The .mp3 format is a common format for music and sounds and we can use that to share media between us. However, the music and sounds pertaining the game should be in .wav and have even higher sample rates and bit depths: 48kHz and 32 bits are suggested for official files.</text:p>
+     <text:p text:style-name="P206">The .mp3 format is a common format for music and sounds and we can use that to share media between us. However, the music and sounds pertaining the game should be in .wav and have even higher sample rates and bit depths: 48kHz and 32 bits are suggested for official files.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P94"/>
    <text:p text:style-name="P95">For images, we also define some major types of image that we already dealt with up until now, as well as some rules they must abide by:</text:p>
    <text:list xml:id="list1395217744" text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P201"><text:span text:style-name="T36">Reference images</text:span> should have a <text:span text:style-name="T70">minimum</text:span> DPI ratio of 300; the <text:span text:style-name="T70">actual pixel resolution of the image can be variable as long as it does not surpass 4096×4096 and makes the image clearly visible once inserted in its context. Your pull request </text:span><text:span text:style-name="T47">will</text:span><text:span text:style-name="T70"> be rejected if you use unclear images!</text:span></text:p>
+     <text:p text:style-name="P202"><text:span text:style-name="T36">Reference images</text:span> should have a <text:span text:style-name="T70">minimum</text:span> DPI ratio of 300; the <text:span text:style-name="T70">actual pixel resolution of the image can be variable as long as it does not surpass 4096×4096 and makes the image clearly visible once inserted in its context. Your pull request </text:span><text:span text:style-name="T47">will</text:span><text:span text:style-name="T70"> be rejected if you use unclear images!</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P202"><text:span text:style-name="T36">Schemes, flowcharts</text:span> and other similar images should also have a minimum DPI ratio of 300, and they should also have a resolution that, while not surpassing 4096×4096, makes them clearly visible once inserted in their context.</text:p>
+     <text:p text:style-name="P203"><text:span text:style-name="T36">Schemes, flowcharts</text:span> and other similar images should also have a minimum DPI ratio of 300, and they should also have a resolution that, while not surpassing 4096×4096, makes them clearly visible once inserted in their context.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P208">Character icons<text:span text:style-name="T40"> also adhere to the 300 DPI ratio rule, but their resolution should be 300×300 pixels.</text:span></text:p>
+     <text:p text:style-name="P209">Character icons<text:span text:style-name="T40"> also adhere to the 300 DPI ratio rule, but their resolution should be 300×300 pixels.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P99"><text:soft-page-break/></text:p>
-   <text:list xml:id="list160557722953594" text:continue-list="list160558589810629" text:style-name="L1">
+   <text:list xml:id="list161711432933716" text:continue-list="list161710449083117" text:style-name="L1">
     <text:list-item>
      <text:p text:style-name="P183"><text:span text:style-name="T60">D</text:span><text:span text:style-name="T59">ata </text:span><text:span text:style-name="T61">storage and retrieval</text:span></text:p>
     </text:list-item>
@@ -2815,13 +2817,13 @@
    <text:p text:style-name="P128">Within GitHub, we also refer to some practices which make our life easier:</text:p>
    <text:list xml:id="list709173407" text:style-name="L6">
     <text:list-item>
-     <text:p text:style-name="P212"><text:span text:style-name="T12">We use code reviews and never push to the mainline branch without having a</text:span><text:span text:style-name="T13">n approved</text:span><text:span text:style-name="T12"> code review for the commits we are pushing. </text:span><text:span text:style-name="T13">To start a code review, you should create a pull request for your branch.</text:span></text:p>
+     <text:p text:style-name="P213"><text:span text:style-name="T12">We use code reviews and never push to the mainline branch without having a</text:span><text:span text:style-name="T13">n approved</text:span><text:span text:style-name="T12"> code review for the commits we are pushing. </text:span><text:span text:style-name="T13">To start a code review, you should create a pull request for your branch.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P213">We rebase, we don’t merge. That means that when your review gets approved you don’t just merge carelessly into mainline, but use the automatic GitHub rebase function.</text:p>
+     <text:p text:style-name="P214">We rebase, we don’t merge. That means that when your review gets approved you don’t just merge carelessly into mainline, but use the automatic GitHub rebase function.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P214"><text:span text:style-name="T72">We keep our commits simple and short: having several commits per addition/modification is good practice because it makes easier </text:span><text:span text:style-name="T73">going</text:span><text:span text:style-name="T72"> through the Git history and fix</text:span><text:span text:style-name="T73">ing</text:span><text:span text:style-name="T72"> </text:span><text:span text:style-name="T73">mistakes</text:span><text:span text:style-name="T72">.</text:span></text:p>
+     <text:p text:style-name="P215"><text:span text:style-name="T72">We keep our commits simple and short: having several commits per addition/modification is good practice because it makes easier </text:span><text:span text:style-name="T73">going</text:span><text:span text:style-name="T72"> through the Git history and fix</text:span><text:span text:style-name="T73">ing</text:span><text:span text:style-name="T72"> </text:span><text:span text:style-name="T73">mistakes</text:span><text:span text:style-name="T72">.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P155"><text:span text:style-name="T10">The Git repository for this project is located at </text:span><text:a xlink:type="simple" xlink:href="https://github.com/iacri/up-to-eleven" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://github.com/iacri/up-to-eleven</text:a><text:span text:style-name="T10">. </text:span><text:span text:style-name="T14">We use a different repository for prototypes, located at </text:span><text:a xlink:type="simple" xlink:href="https://github.com/iacri/ute_prototypes" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://github.com/iacri/ute_prototypes</text:a><text:span text:style-name="T14">.</text:span></text:p>
@@ -2831,7 +2833,7 @@
    <text:p text:style-name="P132"/>
    <text:p text:style-name="P129">Access to both the Drive folder and the GitHub repository (and some other stuff) should be granted when joining the team, but if that for some reason doesn’t happen please contact this document’s owner.</text:p>
    <text:p text:style-name="P129"/>
-   <text:list xml:id="list160557949562101" text:continue-list="list160557722953594" text:style-name="L1">
+   <text:list xml:id="list161710142305733" text:continue-list="list161711432933716" text:style-name="L1">
     <text:list-item>
      <text:p text:style-name="P184"><text:span text:style-name="T60">D</text:span><text:span text:style-name="T62">irectory organization</text:span></text:p>
     </text:list-item>
@@ -2884,7 +2886,7 @@
    <text:p text:style-name="P146">│ <text:s text:c="3"/>│ <text:s text:c="3"/>├ <text:span text:style-name="T82">NPCs</text:span></text:p>
    <text:p text:style-name="P146">│ <text:s text:c="3"/>│ <text:s text:c="3"/><text:span text:style-name="T74">└ player</text:span></text:p>
    <text:p text:style-name="P143"><text:span text:style-name="T74">│</text:span> <text:s text:c="3"/><text:span text:style-name="T74">└ videos</text:span></text:p>
-   <text:p text:style-name="P142"><draw:custom-shape text:anchor-type="paragraph" draw:z-index="0" draw:name="Forma1" draw:style-name="gr1" draw:text-style-name="P215" svg:width="0.313cm" svg:height="0.41cm" svg:x="0.393cm" svg:y="0.092cm">
+   <text:p text:style-name="P142"><draw:custom-shape text:anchor-type="paragraph" draw:z-index="0" draw:name="Forma1" draw:style-name="gr1" draw:text-style-name="P216" svg:width="0.313cm" svg:height="0.41cm" svg:x="0.393cm" svg:y="0.092cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 0 10800 10800 21600 21600 10800" draw:text-areas="0 0 21600 ?f11" draw:type="paper" draw:modifiers="10800" draw:enhanced-path="M 0 0 L 21600 0 21600 ?f0 ?f0 21600 0 21600 Z N M ?f0 21600 L ?f3 ?f0 C ?f8 ?f9 ?f10 ?f11 21600 ?f0 Z N">
       <draw:equation draw:name="f0" draw:formula="$0 "/>
@@ -2901,25 +2903,8 @@
       <draw:equation draw:name="f11" draw:formula="?f0 +?f7 "/>
       <draw:handle draw:handle-position="$0 bottom" draw:handle-range-x-minimum="10800" draw:handle-range-x-maximum="21600"/>
      </draw:enhanced-geometry>
-    </draw:custom-shape>├ <text:s text:c="3"/>.gitignore</text:p>
-   <text:p text:style-name="P142"><draw:custom-shape text:anchor-type="paragraph" draw:z-index="1" draw:name="Forma1" draw:style-name="gr2" draw:text-style-name="P215" svg:width="0.313cm" svg:height="0.41cm" svg:x="0.393cm" svg:y="0.092cm">
-     <text:p/>
-     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 0 10800 10800 21600 21600 10800" draw:text-areas="0 0 21600 ?f11" draw:type="paper" draw:modifiers="10800" draw:enhanced-path="M 0 0 L 21600 0 21600 ?f0 ?f0 21600 0 21600 Z N M ?f0 21600 L ?f3 ?f0 C ?f8 ?f9 ?f10 ?f11 21600 ?f0 Z N">
-      <draw:equation draw:name="f0" draw:formula="$0 "/>
-      <draw:equation draw:name="f1" draw:formula="21600-?f0 "/>
-      <draw:equation draw:name="f2" draw:formula="?f1 *8000/10800"/>
-      <draw:equation draw:name="f3" draw:formula="21600-?f2 "/>
-      <draw:equation draw:name="f4" draw:formula="?f1 /2"/>
-      <draw:equation draw:name="f5" draw:formula="?f1 /4"/>
-      <draw:equation draw:name="f6" draw:formula="?f1 /7"/>
-      <draw:equation draw:name="f7" draw:formula="?f1 /16"/>
-      <draw:equation draw:name="f8" draw:formula="?f3 +?f5 "/>
-      <draw:equation draw:name="f9" draw:formula="?f0 +?f6 "/>
-      <draw:equation draw:name="f10" draw:formula="21600-?f4 "/>
-      <draw:equation draw:name="f11" draw:formula="?f0 +?f7 "/>
-      <draw:handle draw:handle-position="$0 bottom" draw:handle-range-x-minimum="10800" draw:handle-range-x-maximum="21600"/>
-     </draw:enhanced-geometry>
-    </draw:custom-shape><text:span text:style-name="T3">└</text:span> <text:s text:c="4"/>README.md</text:p>
+    </draw:custom-shape>└ <text:s text:c="4"/>README.md</text:p>
+   <text:p text:style-name="P142"/>
    <text:p text:style-name="P117">This folder structure is subject to change. Should any modification happen, it will be duty of this document’s owner to inform the team and perform the change inside the document and the repository.</text:p>
    <text:p text:style-name="P117"/>
    <text:p text:style-name="P117">The <text:span text:style-name="T52">documents</text:span> folder contains any document regarding the game in two distinct folders: <text:span text:style-name="T52">data</text:span><text:span text:style-name="T45"> </text:span><text:span text:style-name="T52">management</text:span> for documents that deal with this organizational side of the project (such as this document) and <text:span text:style-name="T52">level design</text:span><text:span text:style-name="T45"> </text:span><text:span text:style-name="T75">for documents regarding the design part of the project.</text:span></text:p>
@@ -2927,12 +2912,10 @@
    <text:p text:style-name="P117"><text:span text:style-name="T75">The </text:span><text:span text:style-name="T52">game</text:span><text:span text:style-name="T75"> folder contains the final, releasable, game, complete with code, assets and everything else. The internal structure of this folder </text:span><text:span text:style-name="T77">separates </text:span><text:span text:style-name="T54">assets</text:span><text:span text:style-name="T77"> and </text:span><text:span text:style-name="T54">source</text:span><text:span text:style-name="T77"> code, the second of which is just the Unreal Engine project folder. In the </text:span><text:span text:style-name="T54">assets</text:span><text:span text:style-name="T77"> folder every kind of art component of the game can be found: </text:span><text:span text:style-name="T54">audio</text:span><text:span text:style-name="T77">, </text:span><text:span text:style-name="T54">cutscenes</text:span><text:span text:style-name="T77">, </text:span><text:span text:style-name="T54">images</text:span><text:span text:style-name="T77">, </text:span><text:span text:style-name="T54">models</text:span><text:span text:style-name="T77"> and </text:span><text:span text:style-name="T54">text</text:span><text:span text:style-name="T77">. Each of these folders contains subfolders specific to that kind of asset.</text:span></text:p>
    <text:p text:style-name="P135"/>
    <text:p text:style-name="P117"><text:span text:style-name="T75">In the </text:span><text:span text:style-name="T52">reference media</text:span><text:span text:style-name="T75"> folder lie</text:span><text:span text:style-name="T76">s</text:span><text:span text:style-name="T75"> all the data that is used </text:span><text:span text:style-name="T76">as reference for the team members. This is a folder that </text:span><text:span text:style-name="T77">contains</text:span><text:span text:style-name="T76"> data intended only for internal use and that must never be used in production, because it will most likely be copyrighted. </text:span><text:span text:style-name="T77">This folder’s internal structure mimics the one used in </text:span><text:span text:style-name="T54">assets</text:span><text:span text:style-name="T77">, and this is intentional since artists will need to use this folder in order to produce data that will be put in that one.</text:span></text:p>
-   <text:p text:style-name="P136"/>
-   <text:p text:style-name="P118"><text:span text:style-name="T75">The </text:span><text:span text:style-name="T52">.gitignore</text:span><text:span text:style-name="T75"> file tells git which files to ignore from tracking. It’s very useful in order to ignore all files that can be easily built from the repository (e.g.: binaries for the various prototypes).</text:span></text:p>
    <text:p text:style-name="P137"/>
-   <text:p text:style-name="P118"><text:soft-page-break/><text:span text:style-name="T75">The </text:span><text:span text:style-name="T52">README.md</text:span><text:span text:style-name="T75"> file is a Markdown file that gives some basic information about the repository and how to get started with contributing to the project.</text:span></text:p>
+   <text:p text:style-name="P118"><text:span text:style-name="T75">The </text:span><text:span text:style-name="T52">README.md</text:span><text:span text:style-name="T75"> file is a Markdown file that gives some basic information about the repository and how to get started with contributing to the project.</text:span></text:p>
    <text:p text:style-name="P137"/>
-   <text:p text:style-name="P137"/>
+   <text:p text:style-name="P137"><text:soft-page-break/></text:p>
    <text:p text:style-name="P138">The prototypes repository, instead, will have a simpler structure made to only contain the Unity project folders and a description of the prototype itself:</text:p>
    <text:p text:style-name="P138"/>
    <text:p text:style-name="P147">U<text:span text:style-name="T85">TE</text:span> <text:span text:style-name="T85">Prototypes</text:span> [root]</text:p>
@@ -2946,7 +2929,7 @@
    <text:p text:style-name="P185">Each subfolder in the root directory is a prototype of its own and has the same internal structure.</text:p>
    <text:p text:style-name="P185"/>
    <text:p text:style-name="P185"/>
-   <text:list xml:id="list160557889825639" text:continue-numbering="true" text:style-name="L1">
+   <text:list xml:id="list161709745876403" text:continue-numbering="true" text:style-name="L1">
     <text:list-item>
      <text:p text:style-name="P186"><text:span text:style-name="T65">F</text:span><text:span text:style-name="T64">ile naming convention</text:span></text:p>
     </text:list-item>
@@ -3050,25 +3033,25 @@
    <text:p text:style-name="P139"/>
    <text:list xml:id="list396971420" text:style-name="L7">
     <text:list-item>
-     <text:p text:style-name="P203">Documents should have a name describing their purpose, and their name should also be reported on their first page.</text:p>
+     <text:p text:style-name="P204">Documents should have a name describing their purpose, and their name should also be reported on their first page.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P203">Images should report what is the subject represented in the image, what is the intended use for the image and what is the current resolution. Currently used “Use” keywords are: Reference, Circumplex, Flowchart, <text:span text:style-name="T79">Relationships-Map, Diagram.</text:span></text:p>
+     <text:p text:style-name="P204">Images should report what is the subject represented in the image, what is the intended use for the image and what is the current resolution. Currently used “Use” keywords are: Reference, Circumplex, Flowchart, <text:span text:style-name="T79">Relationships-Map, Diagram.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P204">Icons are a special type of images that do not require the resolution parameter (since we agreed upon a fixed size).</text:p>
+     <text:p text:style-name="P205">Icons are a special type of images that do not require the resolution parameter (since we agreed upon a fixed size).</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P207">Textures should report what they should be used on and the resolution they have.</text:p>
+     <text:p text:style-name="P208">Textures should report what they should be used on and the resolution they have.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P207">Models should only report the subject they portray.</text:p>
+     <text:p text:style-name="P208">Models should only report the subject they portray.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P207">Sounds should report what they are emitted by, what action the subject is doing (if any), sample rate and bit depth.</text:p>
+     <text:p text:style-name="P208">Sounds should report what they are emitted by, what action the subject is doing (if any), sample rate and bit depth.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P207">Music bears the need to report where it should be put, apart from the technical details.</text:p>
+     <text:p text:style-name="P208">Music bears the need to report where it should be put, apart from the technical details.</text:p>
     </text:list-item>
    </text:list>
   </office:text>
