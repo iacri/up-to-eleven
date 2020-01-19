@@ -1,0 +1,1 @@
+This folder contains reference media for audio files that feature the environmental noise of cerain areas.
